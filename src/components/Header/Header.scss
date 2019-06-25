@@ -1,0 +1,19 @@
+.header_main {
+    width: 100%;
+    overflow: hidden;
+    height: auto;
+    display: block;
+    background: #343a40;
+
+    .header_text {
+        padding: 2% 0%;
+        width: 80%;
+        overflow: hidden;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        color: #fff;
+        font-family: "Oxygen";
+        font-size: 2em;
+    }
+}

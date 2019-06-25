@@ -1,0 +1,1 @@
+This project uses the same Police API. I have converted into React along with Redux. It is incomplete however. Only the details of forces are being retrieved and not officer details.
